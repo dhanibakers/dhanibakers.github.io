@@ -3,6 +3,8 @@
 ![Visiting Card](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/Bindhu_visiting%20card.JPG)
 ![Details](/assets/Bindhu_visiting%20card.JPG)
 
+![QR_Code](/assets/QR_Code.png)
+
 ## Dhani Bakers 
 
 
