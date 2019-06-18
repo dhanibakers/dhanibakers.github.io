@@ -1,7 +1,7 @@
 # dhanibakers.github.io
 
 ![Visiting Card](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/Bindhu_visiting%20card.JPG)
-![Details]((/assets/Bindhu_visiting%20card.JPG){:class="img-responsive"})
+![Details](/assets/Bindhu_visiting%20card.JPG)
 
 ## Dhani Bakers 
 
