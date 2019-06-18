@@ -10,11 +10,11 @@
 
 - Cakes / Pastries :
   - Egg and Eggless cakes are special attrition. 
-  - We prepare vast varieties of pastries starting from Pineapple, Vanilla, Butterscotch, Chocolate etc.
+  - We prepare vast varieties of pastries starting from Red Velvet, Pineapple, Vanilla, Butterscotch, Chocolate etc.
 
 -	Pizza :
     - Starting from base we prepare at home.
-    - Considering kid’s health we started to prepare wheat Pizza’s which are rich in portions with wheat and vegetables.
+    - Considering kid’s health we started to prepare wheat Pizza’s which are rich in protein with wheat and vegetables.
     
  ## NOTE: We only prepare Veg pizzas.
  
@@ -25,4 +25,17 @@
   - Different sizes and shapes like cartoon, heart etc. 
 
 - Muffins : 
-  - Muffins of low cost, custom made like plain, dry fruits, cashew nut, chocolate, Tutti frutti etc.
+  - Muffins of low cost, low calories custom made 
+    - Plain
+    - Dry fruits 
+    - Cashew nut
+    - Orange
+    - Chocolate
+    - Tutti frutti 
+    
+- Biscuit :
+  - Plain
+  - Cashew nut
+  - Dry Fruits
+  - Chocolate
+ 
