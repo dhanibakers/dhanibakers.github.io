@@ -2,6 +2,8 @@
 
 ![Details](/assets/Bindhu_visiting%20card.JPG)
 
+- QR Code for Website
+
 ![QR_Code](/assets/QR_Code.png)
 
 ## Dhani Bakers 
