@@ -1,6 +1,5 @@
 # dhanibakers.github.io
 
-![Visiting Card](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/Bindhu_visiting%20card.JPG)
 ![Details](/assets/Bindhu_visiting%20card.JPG)
 
 ![QR_Code](/assets/QR_Code.png)
@@ -9,6 +8,8 @@
 
 
 - Homemade Bakery items like Cakes, Chocolates, Pizzas, Biscuit, Muffins etc.
+
+## For Orders & Pricing please WhatsApp Vura Bindhu Priya on 8978884496
 
 - Cakes / Pastries :
   - Egg and Eggless cakes are special attrition. 
@@ -39,4 +40,3 @@
   - Plain
   - Cashew nut
   - Dry Fruits
- 
