@@ -39,5 +39,4 @@
   - Plain
   - Cashew nut
   - Dry Fruits
-  - Chocolate
  
