@@ -13,7 +13,7 @@
   - We prepare vast varieties of pastries starting from Pineapple, Vanilla, Butterscotch, Chocolate etc.
 
 -	Pizza :
-  - Starting from base we prepare at home. 
+  - Starting from base we prepare at home.
   - Considering kid’s health we started to prepare wheat Pizza’s which are rich in portions with wheat and vegetables.
   - We only prepare Veg pizzas.
 
