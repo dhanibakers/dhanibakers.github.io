@@ -14,7 +14,8 @@
 
 ## For Orders & Pricing please WhatsApp Vura Bindhu Priya on 8978884496
 
-- Cakes / Pastries : Per 1KG - 400Rs & Red Velvet - 600Rs per KG
+
+## Cakes / Pastries : 
 
 ![Red velvet](/images/RedVelvet.png)
 ![PineApple](/images/pineapple.jpg)
@@ -23,25 +24,25 @@
       - Red Velvet - 650Rs Per KG 
       - Pineapple, Vanilla, Butterscotch - 400Rs per KG
       - Chocolate - 600Rs Per KG
-  - Spong cakes : (Egg or Egg less)
+  ## Spong cakes : (Egg or Egg less)
       - Plain, tuti fruty - 100Rs for 1/2Kg
       - Chocolate - 110Rs per 1/2Kg
 
--	Pizza : With maida - 80RS, With Wheat - 100Rs
+## Pizza : With maida - 80RS, With Wheat - 100Rs
     - Starting from base we prepare at home.
     - Considering kid’s health we started to prepare wheat Pizza’s which are rich in protein.
     
     
  ## NOTE: We only prepare Veg pizzas.
  
-- Chocolates :
+## Chocolates :
 ![Choclates](/images/cho.jpg)
    We can prepare custom chocolates like
   - Dry fruits chocolate - 10RS per Pice
   - Chocolate - 5Rs per Pice
   - Different sizes and shapes like cartoon, heart etc. 
 
-- Muffins : 
+## Muffins : 
 ![Muffins](/images/muffins.jpg)
   - Muffins of low cost, low calories custom made 
     - Plain - 8 Rs Per Pice
@@ -51,7 +52,7 @@
     - Chocolate  - 10 Rs Per Pice
     - Tutti frutti  - 9 Rs Per Pice
     
-- Biscuit :
+## Biscuit :
 ![Biscuit](/images/busi.jpg)
   - Plain - 250gms - 60Rs
   - Cashew nut - 250gms - 80Rs
