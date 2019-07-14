@@ -24,12 +24,14 @@
  ## NOTE: We only prepare Veg pizzas.
  
 - Chocolates :
+![Choclates](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/images/cho.jpg)
    We can prepare custom chocolates like
   - Dry fruits chocolate
   - Milk Chocolate
   - Different sizes and shapes like cartoon, heart etc. 
 
 - Muffins : 
+![Muffins](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/images/muffins.jpg)
   - Muffins of low cost, low calories custom made 
     - Plain
     - Dry fruits 
@@ -39,6 +41,7 @@
     - Tutti frutti 
     
 - Biscuit :
+![Biscuit](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/images/busi.jpg)
   - Plain
   - Cashew nut
   - Dry Fruits
