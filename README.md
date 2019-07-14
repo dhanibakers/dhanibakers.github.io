@@ -17,7 +17,7 @@
 - Cakes / Pastries : Per 1KG - 400Rs & Red Velvet - 600Rs per KG
 - Spong cakes 1/2 KG 100Rs (Egg or Eggless)
 ![Red velvet](/images/RedVelvet.png)
-![PineApple](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/images/pineapple.jpg)
+![PineApple](/images/pineapple.jpg)
   - Egg and Eggless cakes are special attraction. 
   - We prepare vast varieties of pastries starting from Red Velvet, Pineapple, Vanilla, Butterscotch, Chocolate etc.
   - Spong cakes :
@@ -31,14 +31,14 @@
  ## NOTE: We only prepare Veg pizzas.
  
 - Chocolates :
-![Choclates](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/images/cho.jpg)
+![Choclates](/images/cho.jpg)
    We can prepare custom chocolates like
   - Dry fruits chocolate
   - Milk Chocolate
   - Different sizes and shapes like cartoon, heart etc. 
 
 - Muffins : 
-![Muffins](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/images/muffins.jpg)
+![Muffins](/images/muffins.jpg)
   - Muffins of low cost, low calories custom made 
     - Plain
     - Dry fruits 
@@ -48,7 +48,7 @@
     - Tutti frutti 
     
 - Biscuit :
-![Biscuit](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/images/busi.jpg)
+![Biscuit](/images/busi.jpg)
   - Plain
   - Cashew nut
   - Dry Fruits
