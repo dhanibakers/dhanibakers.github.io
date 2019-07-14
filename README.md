@@ -14,6 +14,8 @@
 ## For Orders & Pricing please WhatsApp Vura Bindhu Priya on 8978884496
 
 - Cakes / Pastries :
+![Red velvet](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/images/RedVelvet.png)
+![PineApple](https://github.com/dhanibakers/dhanibakers.github.io/blob/master/images/pineapple.jpg)
   - Egg and Eggless cakes are special attrition. 
   - We prepare vast varieties of pastries starting from Red Velvet, Pineapple, Vanilla, Butterscotch, Chocolate etc.
 
