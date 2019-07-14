@@ -34,7 +34,7 @@
   - Considering kid’s health we started to prepare wheat Pizza’s which are rich in protein.
     
     
- ## NOTE: We only prepare Veg pizzas.
+## NOTE: We only prepare Veg pizzas.
  
 ## Chocolates :
 ![Choclates](/images/cho.jpg)
