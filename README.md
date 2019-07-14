@@ -28,9 +28,10 @@
       - Plain, tuti fruty - 100Rs for 1/2Kg
       - Chocolate - 110Rs per 1/2Kg
 
-## Pizza : With maida - 80RS, With Wheat - 100Rs
-    - Starting from base we prepare at home.
-    - Considering kid’s health we started to prepare wheat Pizza’s which are rich in protein.
+## Pizza : 
+  - With maida - 80RS, With Wheat - 100Rs
+  - Starting from base we prepare at home.
+  - Considering kid’s health we started to prepare wheat Pizza’s which are rich in protein.
     
     
  ## NOTE: We only prepare Veg pizzas.
