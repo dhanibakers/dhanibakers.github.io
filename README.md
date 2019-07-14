@@ -53,8 +53,7 @@
     
 - Biscuit :
 ![Biscuit](/images/busi.jpg)
-  - Plain - 250gm -
-  - Cashew nut
-  - Dry Fruits
-  - Raagi
-  - Coconut
+  - Plain - 250gms - 60Rs
+  - Cashew nut - 250gms - 80Rs
+  - Raagi - 250gms - 70Rs
+  - Coconut - 250gms - 70Rs
