@@ -24,9 +24,9 @@
       - Red Velvet - 650Rs Per KG 
       - Pineapple, Vanilla, Butterscotch - 400Rs per KG
       - Chocolate - 600Rs Per KG
-  ## Spong cakes : (Egg or Egg less)
-   - Plain, tuti fruty - 100Rs for 1/2Kg
-   - Chocolate - 110Rs per 1/2Kg
+## Spong cakes : (Egg or Egg less)
+  - Plain, tuti fruty - 100Rs for 1/2Kg
+  - Chocolate - 110Rs per 1/2Kg
 
 ## Pizza : 
   - With maida - 80RS, With Wheat - 100Rs
