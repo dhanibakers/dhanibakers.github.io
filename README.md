@@ -20,6 +20,8 @@
 ![Red velvet](/images/RedVelvet.png)
 ![PineApple](/images/pineapple.jpg)
 ![Flower Cake](/images/IMG_20190716_094141.jpg)
+![Pizza](/images/IMG-20190804-WA0008.jpg)
+![Rakhi](/images/quickgrid_20197278296271.png)
   - Egg and Eggless cakes are special attraction. 
   - We prepare vast varieties of pastries starting from
       - Red Velvet - 650Rs Per KG 
