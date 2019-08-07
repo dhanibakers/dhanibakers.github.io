@@ -14,6 +14,24 @@
 
 ## For Orders & Pricing please WhatsApp Vura Bindhu Priya on 8978884496
 
+<!-- Place somewhere in the <body> of your page -->
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="/images/RedVelvet.png" />
+    </li>
+    <li>
+      <img src="/images/pineapple.jpg" />
+    </li>
+    <li>
+      <img src="/images/IMG_20190716_094141.jpg" />
+    </li>
+    <li>
+      <img src="/images/IMG-20190804-WA0008.jpg" />
+    </li>
+  </ul>
+</div>
+
 
 ## Cakes / Pastries : 
 ![Red velvet](/images/RedVelvet.png)
