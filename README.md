@@ -16,12 +16,10 @@
 
 
 ## Cakes / Pastries : 
-
 ![Red velvet](/images/RedVelvet.png)
 ![PineApple](/images/pineapple.jpg)
 ![Flower Cake](/images/IMG_20190716_094141.jpg)
-![Pizza](/images/IMG-20190804-WA0008.jpg)
-![Rakhi](/images/quickgrid_20197278296271.png)
+
   - Egg and Eggless cakes are special attraction. 
   - We prepare vast varieties of pastries starting from
       - Red Velvet - 650Rs Per KG 
@@ -32,6 +30,7 @@
   - Chocolate - 110Rs per 1/2Kg
 
 ## Pizza : 
+![Pizza](/images/IMG-20190804-WA0008.jpg)
   - With maida - 80RS, With Wheat - 100Rs
   - Starting from base we prepare at home.
   - Considering kid’s health we started to prepare wheat Pizza’s which are rich in protein.
@@ -41,6 +40,7 @@
  
 ## Chocolates :
 ![Choclates](/images/cho.jpg)
+![Rakhi](/images/quickgrid_20197278296271.png)
    We can prepare custom chocolates like
   - Dry fruits chocolate - 10RS per Pice
   - Chocolate - 5Rs per Pice
