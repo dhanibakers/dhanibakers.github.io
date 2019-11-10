@@ -14,10 +14,7 @@
 ## For Orders & Pricing please WhatsApp Vura Bindhu Priya on 8978884496
 
 ## Cakes / Pastries : 
-![Red velvet](/images/RedVelvet.png)
-![PineApple](/images/pineapple.jpg)
-![Flower Cake](/images/IMG_20190716_094141.jpg)
-![Cakes Grid] (/images/Cakes_grid.png)
+
 ![Cake_grid](/images/cgrid.png)
 
   - Egg and Eggless cakes are special attraction. 
@@ -39,6 +36,7 @@
 ## NOTE: We only prepare Veg pizzas.
  
 ## Chocolates :
+
 ![Choclates](/images/cho.jpg)
 ![Rakhi](/images/quickgrid_20197278296271.png)
    We can prepare custom chocolates like
@@ -48,7 +46,9 @@
   - Different sizes and shapes like cartoon,Teddy & heart etc.
   
 ## Chocolate Box's :
+
 Customized Chocolate Box's and Dry Fruits box's based on the event.
+
 ![Choclate Box](/images/Chocolate_box_grid.png)
 ![Dry Fruits Chocolate](/images/Dry_fruits_chocolates.png) 
 
