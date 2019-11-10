@@ -18,7 +18,7 @@
 ![PineApple](/images/pineapple.jpg)
 ![Flower Cake](/images/IMG_20190716_094141.jpg)
 ![Cakes Grid] (/images/Cakes_grid.png)
-![Cakegrid] (/images/Cakes_grid.png)
+![Cakegrid] (/images/cgrid.png)
 
   - Egg and Eggless cakes are special attraction. 
   - We prepare vast varieties of pastries starting from
