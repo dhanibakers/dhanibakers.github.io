@@ -17,6 +17,7 @@
 ![Red velvet](/images/RedVelvet.png)
 ![PineApple](/images/pineapple.jpg)
 ![Flower Cake](/images/IMG_20190716_094141.jpg)
+![Cakes Grid] (/images/Cakes grid.png)
 
   - Egg and Eggless cakes are special attraction. 
   - We prepare vast varieties of pastries starting from
@@ -42,7 +43,13 @@
    We can prepare custom chocolates like
   - Dry fruits chocolate - 10RS per Pice
   - Chocolate - 5Rs per Pice
-  - Different sizes and shapes like cartoon, heart etc. 
+  - Crunchy Almond Chocolates - 8Rs per Pice
+  - Different sizes and shapes like cartoon,Teddy & heart etc.
+  
+## Chocolate Box's :
+Customized Chocolate Box's and Dry Fruits box's based on the event.
+![Choclate Box](/images/Chocolate box grid.png)
+![Dry Fruits Chocolate](/images/Dry ruits chocolates.png) 
 
 ## Muffins : 
 ![Muffins](/images/muffins.jpg)
