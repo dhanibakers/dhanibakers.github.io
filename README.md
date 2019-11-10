@@ -17,7 +17,7 @@
 ![Red velvet](/images/RedVelvet.png)
 ![PineApple](/images/pineapple.jpg)
 ![Flower Cake](/images/IMG_20190716_094141.jpg)
-![Cakes Grid] (/images/Cakes grid.png)
+![Cakes Grid] (/images/Cakes_grid.png)
 
   - Egg and Eggless cakes are special attraction. 
   - We prepare vast varieties of pastries starting from
@@ -48,8 +48,8 @@
   
 ## Chocolate Box's :
 Customized Chocolate Box's and Dry Fruits box's based on the event.
-![Choclate Box](/images/Chocolate box grid.png)
-![Dry Fruits Chocolate](/images/Dry ruits chocolates.png) 
+![Choclate Box](/images/Chocolate_box_grid.png)
+![Dry Fruits Chocolate](/images/Dry_fruits_chocolates.png) 
 
 ## Muffins : 
 ![Muffins](/images/muffins.jpg)
